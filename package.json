@@ -1,8 +1,7 @@
 {
   "name": "node-blog",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +18,8 @@
   "homepage": "https://github.com/mrnqoe/node-blog#readme",
   "dependencies": {
     "ejs": "^2.5.5",
+    "ejs2": "^2.1.0",
     "express": "^4.14.0"
-  }
+  },
+  "description": ""
 }
